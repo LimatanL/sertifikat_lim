@@ -8,6 +8,8 @@ Ini adalah repositori untuk menyimpan sertifikat-sertifikat yang saya peroleh se
 2. **Academy Digital Talent Scholarship 2022** - Kementerian Komunikasi dan Informatika RI (2022)
    Sertifikat ini menunjukkan bahwa saya telah mengikuti pelatihan sebagai Data Analyst dalam Academy Digital Talent Scholarship 2022. Pelatihan ini mencakup modul-modul seperti Python Fundamental for Data Science, Fundamental SQL, Exploratory Data Analysis, dan Data Visualization.
 
-3. **[Sertifikat Lainnya]**
+3. **Sertifikat Myskill**
+
+4. **Sertifikat Lainnya**
 
 Silakan jelajahi repositori ini untuk melihat sertifikat-sertifikat lainnya yang saya peroleh. Terima kasih!
